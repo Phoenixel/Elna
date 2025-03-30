@@ -17,7 +17,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 ## :mailbox: Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/silentBob) or check out my [personal website](https://silentbob.dev).
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/elnaz-eghtesadi-570772275) or check out my [personal website](https://silentbob.dev).
 
 ## :hammer_and_spanner: Tools I Use
 
