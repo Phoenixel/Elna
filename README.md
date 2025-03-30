@@ -6,7 +6,7 @@ Hi, I’m Elnaz! I’m a passionate developer with a knack for creating efficien
 
 - :seedling: I’m currently exploring **Machine Learning** and **Data Visualization**.
 - - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- - :speech_bubble: Ask me about **java**, **Python**, and **data metodic**.
+- :speech_bubble: Ask me about **java**, **Python**, and **data metodic**.
 - :mailbox: How to reach me: [elnaz.eghtesadi@outlook.com](elnaz.eghtesadi@outlook.com)- :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
 
 ## :books: My Writing & Content
